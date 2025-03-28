@@ -19,12 +19,5 @@ This Power BI dashboard provides insightful analysis of customer orders, sales p
 ## Files
 - `/images/` - Screenshots of the dashboard.
 
-## 📸 Screenshots
-![Dashboard Preview](images/dashboard_preview.png) *(Replace with actual image link if uploaded)*
-
-
-## 📧 Contact
-For any inquiries, feel free to connect with me on [LinkedIn](your-linkedin-profile) or via email at **your-email@example.com**.
-
 ---
 🚀 *Developed as part of my internship at NTI - Enhancing data-driven decision-making through visualization!*
